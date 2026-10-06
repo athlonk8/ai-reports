@@ -11,9 +11,9 @@ GitHub Pages：`https://athlonk8.github.io/ai-reports/`
 
 ## 自定义域名 `reports.xuyili.com`
 
-DNS 托管在 **DNSPod**（NS：`canoeing.dnspod.net`、`cat.dnspod.net`）。仓库根目录的 `CNAME` 已经是 `reports.xuyili.com`，还差 DNSPod 上的一条记录。
+DNS 托管在 **DNSPod**（NS：`canoeing.dnspod.net`、`cat.dnspod.net`）。仓库里**没有** CNAME 文件，也不用手工加：绑定自定义域名时 Pages 会自己生成，解绑时又会自己删掉（这个仓库里已经来回发生过一次）。
 
-在 DNSPod「xuyili.com」→ 记录管理 → 添加记录：
+还差 DNSPod 上的一条记录。在 DNSPod「xuyili.com」→ 记录管理 → 添加记录：
 
 | 字段 | 值 |
 | --- | --- |
@@ -29,6 +29,8 @@ DNS 托管在 **DNSPod**（NS：`canoeing.dnspod.net`、`cat.dnspod.net`）。�
 
 解析生效后：
 
-1. `gh api -X PUT repos/athlonk8/ai-reports/pages -f cname=reports.xuyili.com` 绑定域名
+1. `gh api -X PUT repos/athlonk8/ai-reports/pages -f cname=reports.xuyili.com` 绑定域名（这一步会顺手生成 CNAME 文件）
 2. 等 Pages 签发证书，再 `gh api -X PUT repos/athlonk8/ai-reports/pages -f cname=reports.xuyili.com -F https_enforced=true` 强制 HTTPS
+
+域名绑上以后，`https://athlonk8.github.io/ai-reports/` 会自动跳转到 `https://reports.xuyili.com/`，两个地址都留着。
 
