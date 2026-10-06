@@ -1,9 +1,12 @@
-# 前沿简报
+# AI 简报
 
-中英对照的 AI 商业报告阅读页。每篇按原文结构写独立简报，数字来自原文正文，原图只放链接。
+中英对照的 AI 商业报告阅读站，版式与 [cs.xuyili.com](https://cs.xuyili.com) 相同：顶栏、报告卡片、页内目录、宽屏左右对照。
 
 - 目录：`index.html`
+- 总目录：`materials.html`
 - State of Markets II：`reports/state-of-markets-ii.html`
-- Top 100 Gen AI Consumer Apps 第 7 期：`reports/top-100-gen-ai-apps-7.html`
+- Top 100 第 7 期：`reports/top-100-gen-ai-apps-7.html`
 
-GitHub Pages 项目地址是 `https://athlonk8.github.io/ai-reports/`。要挂到 `reports.xuyili.com`，在 DNSPod 给 `xuyili.com` 加一条 CNAME：`reports` → `athlonk8.github.io`，然后把仓库里的 `CNAME` 文件写成 `reports.xuyili.com`。
+GitHub Pages：`https://athlonk8.github.io/ai-reports/`
+
+子域名 `reports.xuyili.com` 还差 DNSPod 的一条 CNAME：`reports` → `athlonk8.github.io`。解析生效后再把仓库根目录的 `CNAME` 写成 `reports.xuyili.com`。

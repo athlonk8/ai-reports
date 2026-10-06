@@ -1,0 +1,20 @@
+[
+  {
+    "title_zh": "State of Markets II",
+    "title": "State of Markets II",
+    "summary": "科技贡献了标普500绝大部分盈利增长，资金从软件转向半导体与实物产能，AI采用仍然又宽又浅。",
+    "tags": "a16z David George 市场 盈利 GPU SaaS",
+    "week": "2026-09-30",
+    "kind": "市场",
+    "slug": "state-of-markets-ii"
+  },
+  {
+    "title_zh": "Top 100 Gen AI Consumer Apps 第7期",
+    "title": "The Top 100 Gen AI Consumer Apps 7th Edition",
+    "summary": "消费AI榜单变熟。使用面已经铺开，付费高度集中，三家模型公司打的不是同一场比赛。",
+    "tags": "a16z Olivia Moore ChatGPT Claude Gemini 支出 助理",
+    "week": "2026-10-05",
+    "kind": "消费",
+    "slug": "top-100-gen-ai-apps-7"
+  }
+]

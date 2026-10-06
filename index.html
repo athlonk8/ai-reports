@@ -1,47 +1,101 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>前沿简报 · Frontier Briefs</title>
-  <meta name="description" content="AI 前沿商业报告的中英对照简报。覆盖论证结构和原文写明的关键数字，原图与全文留在出处。">
-  <link rel="stylesheet" href="assets/site.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 简报 · 前沿商业报告</title>
+<meta name="description" content="AI 前沿商业报告的中英对照简报。版式与 cs.xuyili.com 的学习站相同。">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/extra.css">
 </head>
 <body>
-  <a class="skip" href="#main">跳到目录</a>
-  <header class="topbar">
-    <a class="brand" href="index.html">前沿简报<small>Frontier Briefs · xuyili.com</small></a>
-    <nav class="topnav" aria-label="主要">
-      <a href="index.html">目录</a>
-      <a href="reports/state-of-markets-ii.html">State of Markets II</a>
-      <a href="reports/top-100-gen-ai-apps-7.html">Top 100 · 第 7 期</a>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="index.html"><span class="brand-mark">AI</span>简报<span class="brand-sub">商业报告</span></a>
+    <nav class="topnav">
+      <a href="materials.html">报告总目录</a>
+      <a href="index.html#shelf">报告架</a>
+      <a href="index.html#about">关于本站</a>
     </nav>
-  </header>
-  <main id="main" class="wrap">
-    <section class="hero">
-      <p class="kicker">AI commercial reports</p>
-      <h1>前沿简报</h1>
-      <p class="lede">专门放 AI 前沿商业报告的中英对照阅读页。每一篇按原文的章节走一遍论证，并把正文里写明的数字重绘成图。原图和全文留在作者站点，这里不转存。</p>
-      <p class="meta">徐一立 · 2026-10-06 起 · 仓库 <a href="https://github.com/athlonk8/ai-reports">athlonk8/ai-reports</a></p>
-      <p class="note">阅读约定：左栏英文、右栏中文，说的是同一份简报，不是逐句对译。图表只使用原文散文里写出的数字，或明确标注为原图标题中的主张。面板数据不是公司总收入。</p>
+    <div class="searchbox"><input id="search-input" type="search" placeholder="搜索报告 / 主题…" autocomplete="off"><div id="search-results" class="search-results" hidden></div></div>
+  </div>
+</header>
+<div class="hero">
+  <div class="hero-inner">
+    <p class="hero-kicker">Frontier commercial reports · 子域名 reports.xuyili.com</p>
+    <h1>AI 前沿商业报告<br><span class="hero-cn">中英对照简报</span></h1>
+    <p class="hero-desc">专门收 AI 前沿的商业报告。每一篇按原文章节走完论证，宽屏下<b>英文在左、中文在右</b>，页内可以只看中文。正文写明的数字重绘成图，原图留在出处。</p>
+    <div class="hero-stats">
+      <div class="stat"><b>2</b><span>篇报告</span></div>
+      <div class="stat"><b>1</b><span>个栏目</span></div>
+      <div class="stat"><b>中英</b><span>左右对照</span></div>
+      <div class="stat"><b>10/06</b><span>本站起刊</span></div>
+    </div>
+  </div>
+</div>
+<div class="star-banner">
+  <div class="star-banner-text">
+    <b>阅读约定</b>：这是独立编写的简报，不是把原文逐段搬过来。图表只用正文里写出的数字。原图点每节末尾的链接，在 a16z 打开。面板数据不是公司总收入。
+  </div>
+  <a class="star-btn" href="https://github.com/athlonk8/ai-reports" target="_blank" rel="noopener">源码 · athlonk8/ai-reports</a>
+</div>
+<nav class="cat-nav">
+  <div class="cat-nav-inner">
+    <a href="#cat-1">市场与消费</a>
+  </div>
+</nav>
+<main class="index-main">
+  <h2 class="sec-title" id="shelf">报告架 <a class="all-mats" href="materials.html">报告总目录 →</a></h2>
+  <div class="bi-progress">已上架 <b>2</b> 篇。带 <span class="badge badge-kind">中英简报</span> 的文章，宽屏自动左右分栏，右上角可切换「仅看中文」。</div>
+  <section class="cat-section" id="cat-1">
+    <div class="cat-head">
+      <div class="cat-no">01</div>
+      <div><h2 class="cat-title">市场与消费</h2><p class="cat-desc">公开市场里的科技周期，以及消费级生成式 AI 的流量与付费 · 共 2 篇</p></div>
+    </div>
+    <section class="topic" id="topic-markets">
+      <div class="topic-head">
+        <div class="topic-date">9/30</div>
+        <h2>State of Markets II <span class="topic-week">a16z Growth</span></h2>
+        <div class="topic-count">1 篇</div>
+      </div>
+      <ul class="mat-list">
+        <li class="mat-row">
+          <a class="mat-link" href="reports/state-of-markets-ii.html">
+            <span class="badge badge-must">市场</span>
+            <span class="badge badge-kind">中英简报</span>
+            <span class="mat-title">State of Markets II</span>
+          </a>
+          <div class="mat-sub">&quot;State of Markets II&quot; · David George · 2026-09-30</div>
+          <div class="mat-summary">科技不再是周期里的一个板块，它就是这轮盈利本身。市场的重心从软件转向半导体、电力和实物产能，而 AI 的采用仍然又宽又浅。</div>
+        </li>
+      </ul>
     </section>
-    <section class="catalog" aria-label="报告目录">
-      <a class="card" href="reports/state-of-markets-ii.html">
-        <span class="tag">a16z Growth · 2026-09-30 · David George</span>
-        <h2>State of Markets II</h2>
-        <p>科技不再是周期里的一个板块，它就是这轮盈利本身。市场的重心从软件转向半导体、电力和实物产能，而 AI 的采用仍然又宽又浅。</p>
-        <p lang="en">Technology is no longer a sector inside the cycle. It is the earnings cycle. Capital has rotated from software toward physical capacity, while AI adoption stays broad and shallow.</p>
-      </a>
-      <a class="card" href="reports/top-100-gen-ai-apps-7.html">
-        <span class="tag">a16z Consumer · 2026-10-05 · Olivia Moore</span>
-        <h2>Top 100 Gen AI Consumer Apps · 第 7 期</h2>
-        <p>榜单开始变熟。真正的新信息在支付端：使用面已经铺开，付费却高度集中，三家模型公司打的不是同一场比赛。</p>
-        <p lang="en">The leaderboard looks familiar. The new information is spending: usage is wide, payment is concentrated, and the three model labs are no longer playing the same game.</p>
-      </a>
+    <section class="topic" id="topic-consumer">
+      <div class="topic-head">
+        <div class="topic-date">10/05</div>
+        <h2>Top 100 · 第 7 期 <span class="topic-week">a16z Consumer</span></h2>
+        <div class="topic-count">1 篇</div>
+      </div>
+      <ul class="mat-list">
+        <li class="mat-row">
+          <a class="mat-link" href="reports/top-100-gen-ai-apps-7.html">
+            <span class="badge badge-must">消费</span>
+            <span class="badge badge-kind">中英简报</span>
+            <span class="mat-title">Top 100 Gen AI Consumer Apps · 第 7 期</span>
+          </a>
+          <div class="mat-sub">&quot;The Top 100 Gen AI Consumer Apps — 7th Edition&quot; · Olivia Moore · 2026-10-05</div>
+          <div class="mat-summary">榜单开始变熟。真正的新信息在支付端：使用面已经铺开，付费却高度集中，三家模型公司打的不是同一场比赛。</div>
+        </li>
+      </ul>
     </section>
-  </main>
-  <footer>
-    <div class="wrap">原文版权归 a16z 及各位作者所有。本站文字是独立简报。数字出处见各页末尾。</div>
-  </footer>
+  </section>
+  <section class="about" id="about">
+    <h2 class="sec-title">关于本站</h2>
+    <p>版式沿用 <a href="https://cs.xuyili.com/">cs.xuyili.com</a> 那套阅读站：顶栏、红色题头、报告卡片、页内目录，以及宽屏中英左右对照。代码在 <a href="https://github.com/athlonk8/ai-reports">athlonk8/ai-reports</a>。</p>
+    <p>计划中的地址是 <b>reports.xuyili.com</b>，接法和 <b>cs.xuyili.com</b> 一样：DNSPod 把子域名 CNAME 到 <b>athlonk8.github.io</b>，仓库里放一份 CNAME。解析写上之前，页面先放在 GitHub Pages。</p>
+  </section>
+</main>
+<footer class="footer">徐一立 · AI 简报 · 原文版权归 a16z 及各位作者 · 本站不转存原图</footer>
+<script src="assets/site.js"></script>
 </body>
 </html>
