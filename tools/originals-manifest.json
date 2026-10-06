@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "state-of-markets-ii",
+    "file": "hero-cover.jpg",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/9ec4c533-a6bc-4afb-8a73-16497f12c022_2844x1600-scaled.jpg",
+    "caption": "a16z 原文题图",
+    "width": 2560,
+    "height": 1440,
+    "format": "jpeg",
+    "bytes": 530193
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "tech-earnings-3.8x-non-tech.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/Tech-Earnings-Have-Grown-3.8x-More-Than-Non-Tech.png",
+    "caption": "Tech earnings have grown 3.8× more than non-tech",
+    "width": 2000,
+    "height": 1795,
+    "format": "png",
+    "bytes": 277059
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "tech-contributed-76pct-earnings-growth.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/Tech-Contributed-76-Of-Earnings-Growth.png",
+    "caption": "Tech contributed 76% of earnings growth",
+    "width": 2000,
+    "height": 1807,
+    "format": "png",
+    "bytes": 251538
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "hyperscaler-fcf-semiconductor-fcf.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/Hyperscaler-FCF-Has-Become-Semiconductor-FCF.png",
+    "caption": "Hyperscaler FCF has become semiconductor FCF",
+    "width": 2000,
+    "height": 1677,
+    "format": "png",
+    "bytes": 238644
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "gpus-more-valuable-over-time.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/Reports-Of-Obsolescence-Greatly-Exaggerated_-GPUs-Getting-More-Valuable-Over-Time.png",
+    "caption": "Reports of obsolescence greatly exaggerated: GPUs getting more valuable over time",
+    "width": 2000,
+    "height": 1982,
+    "format": "png",
+    "bytes": 313749
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "69pct-live-ai-deployment-2pct-tracked-metric.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/69-of-the-SP-500-Point-To-A-Live-AI-deployment.-Only-2-Disclose-A-Metric-They-Track-Over-Time.png",
+    "caption": "69% of the S&P 500 point to a live AI deployment; only 2% disclose a metric they track over time",
+    "width": 2000,
+    "height": 1717,
+    "format": "png",
+    "bytes": 268490
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "more-households-paying-for-ai-scaled.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/More-and-More-Households-are-Paying-for-AI-scaled.png",
+    "caption": "More and more households are paying for AI",
+    "width": 1631,
+    "height": 2560,
+    "format": "png",
+    "bytes": 390409
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "software-profitability-growth-scatter.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/0967b1ef-9dbd-4005-b834-d3f3c363b0de_2000x1915.png",
+    "caption": "软件板块盈利与增长的散点图（原文未给出坐标）",
+    "width": 2000,
+    "height": 1915,
+    "format": "png",
+    "bytes": 332132
+  },
+  {
+    "slug": "state-of-markets-ii",
+    "file": "looking-ahead.jpg",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/09/Looking-Ahead-1.jpg",
+    "caption": "Looking ahead",
+    "width": 2000,
+    "height": 1125,
+    "format": "jpeg",
+    "bytes": 1639004
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "top-50-consumer-ai-apps-by-monthly-revenue.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Apps-Top-50-List-1.png",
+    "caption": "The top 50 consumer AI apps, by monthly revenue",
+    "width": 2000,
+    "height": 1267,
+    "format": "png",
+    "bytes": 121237
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "top-50-mobile-apps-by-mau.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Apps-Top-50-List-3.png",
+    "caption": "The top 50 gen AI mobile apps, by monthly active users",
+    "width": 2000,
+    "height": 1267,
+    "format": "png",
+    "bytes": 418117
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "top-50-web-products-by-monthly-visits.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Top-Gen-AI-Web-Top-50-List-v2-2.png",
+    "caption": "The top 50 gen AI web products, by unique monthly visits",
+    "width": 2000,
+    "height": 1267,
+    "format": "png",
+    "bytes": 388969
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "spending-and-traffic-different-rankings-scaled.jpg",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Spending-and-Traffic-Produce-Different-Rankings-scaled.jpg",
+    "caption": "Spending and traffic produce different rankings",
+    "width": 1936,
+    "height": 2560,
+    "format": "jpeg",
+    "bytes": 333975
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "where-consumer-ai-has-room-to-grow-scaled.jpg",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Where-Consumer-AI-Has-Room-to-Grow-scaled.jpg",
+    "caption": "Where consumer AI has room to grow",
+    "width": 1967,
+    "height": 2560,
+    "format": "jpeg",
+    "bytes": 416060
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "how-consumer-ai-companies-monetize.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/How-Consumer-AI-Companies-Monetize-1.png",
+    "caption": "How consumer AI companies monetize",
+    "width": 2000,
+    "height": 1403,
+    "format": "png",
+    "bytes": 69357
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "consumer-spending-growth-concentrated-at-top.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Consumer-Spending-Growth-is-Concentrated-at-the-Very-Top.png",
+    "caption": "Consumer spending growth is concentrated at the very top",
+    "width": 2000,
+    "height": 1493,
+    "format": "png",
+    "bytes": 75185
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "what-biggest-spenders-overindex-on.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/What-AIs-Biggest-Consumer-Spenders-Overindex-On.png",
+    "caption": "What AI's biggest consumer spenders overindex on",
+    "width": 2000,
+    "height": 1438,
+    "format": "png",
+    "bytes": 90427
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "coding-and-technical-automation-lead.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Coding-and-Technical-Automation-Lead-Task-Discussion.png",
+    "caption": "Coding and technical automation lead task discussion",
+    "width": 2000,
+    "height": 2140,
+    "format": "png",
+    "bytes": 109537
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "chatgpt-reclaimed-lead-net-new-subscriptions.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/ChatGPT-Has-Reclaimed-the-Lead-in-Net-New-Subscriptions.png",
+    "caption": "ChatGPT has reclaimed the lead in net new subscriptions",
+    "width": 2000,
+    "height": 2017,
+    "format": "png",
+    "bytes": 67676
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "claude-converts-high-cost-subscriptions.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Claude-Converts-Users-More-Aggressively-to-High-Cost-Subscriptions.png",
+    "caption": "Claude converts users more aggressively to high-cost subscriptions",
+    "width": 2000,
+    "height": 1583,
+    "format": "png",
+    "bytes": 93479
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "three-years-in-chatgpt-holds-lead-paid.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Three-Years-in-ChatGPT-is-Holding-The-Lead-in-Paid-Users.png",
+    "caption": "Three years in, ChatGPT is holding the lead in paid users",
+    "width": 2000,
+    "height": 1736,
+    "format": "png",
+    "bytes": 80469
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "in-paid-us-subscribers-chatgpt-leads.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/In-Paid-U.S.-Subscribers-ChatGPT-Leads-But-Claude-Caught-Gemini.png",
+    "caption": "In paid U.S. subscribers, ChatGPT leads but Claude caught Gemini",
+    "width": 2000,
+    "height": 1755,
+    "format": "png",
+    "bytes": 93254
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "media-built-subscription-economy.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Media-Built-the-Subscription-Economy-ChatGPT-is-Already-Breaking-In.png",
+    "caption": "Media built the subscription economy; ChatGPT is already breaking in",
+    "width": 2000,
+    "height": 1987,
+    "format": "png",
+    "bytes": 302441
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "openai-leads-anthropic-in-47-states.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/OpenAI-Leads-Anthropic-in-47-States.png",
+    "caption": "OpenAI leads Anthropic in 47 states",
+    "width": 2000,
+    "height": 1810,
+    "format": "png",
+    "bytes": 103061
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "openai-spending-less-skewed-gender-income.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/OpenAI-Spending-is-Less-Skewed-by-Gender-and-Income.png",
+    "caption": "OpenAI spending is less skewed by gender and income",
+    "width": 2000,
+    "height": 1492,
+    "format": "png",
+    "bytes": 82791
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "only-seven-products-rank-top-on-all-three.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Only-Seven-Products-Rank-in-the-Top-Group-on-Web-Mobile-and-Revenue.png",
+    "caption": "Only seven products rank in the top group on web, mobile, and revenue",
+    "width": 2000,
+    "height": 1819,
+    "format": "png",
+    "bytes": 109641
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "claude-for-work-gemini-consumers-chatgpt-both.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Claude-for-work-Gemini-for-consumers-ChatGPT-for-both.png",
+    "caption": "Claude for work, Gemini for consumers, ChatGPT for both",
+    "width": 2000,
+    "height": 1856,
+    "format": "png",
+    "bytes": 87875
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "muse-vs-threads-us-canada.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Muse-vs.-Threads_-U.S.-and-Canada.png",
+    "caption": "Muse vs. Threads: U.S. and Canada",
+    "width": 2000,
+    "height": 1554,
+    "format": "png",
+    "bytes": 73134
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "muse-mobile-downloads-by-day.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Muse-Mobile-Downloads-by-Day.png",
+    "caption": "Muse mobile downloads by day",
+    "width": 2000,
+    "height": 1653,
+    "format": "png",
+    "bytes": 82021
+  },
+  {
+    "slug": "top-100-gen-ai-apps-7",
+    "file": "daily-visits-personal-agent-signup-pages.png",
+    "url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/10/Daily-Visits-to-Personal-Agent-Signup-Pages.png",
+    "caption": "Daily visits to personal agent signup pages",
+    "width": 2000,
+    "height": 1535,
+    "format": "png",
+    "bytes": 91507
+  }
+]

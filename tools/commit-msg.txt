@@ -1,0 +1,19 @@
+Rehost the original a16z charts inside both briefings.
+
+The two briefings previously linked out to the source images and stated that the
+site did not mirror them. The charts are now downloaded from a16z at full
+resolution and placed inline at the end of the section each one supports, in the
+same order the source articles use.
+
+- 30 images, 7.18 MB, under assets/img/<slug>/
+- figures span the prose column rather than sitting in one language column,
+  since an image carries no language
+- each figure carries its original caption, the source publication, a link back
+  to the article, and a link to the full-size file
+- width/height on every img so the pages do not shift while loading
+- the rehosting policy wording on the index and in both briefings now states that
+  the charts are reprinted with per-figure attribution and that copyright stays
+  with a16z
+- tools/ holds the fetch, insert, strip and verify scripts plus the manifest
+
+Chart copyright remains with Andreessen Horowitz.

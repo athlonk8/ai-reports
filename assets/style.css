@@ -228,6 +228,8 @@ a:hover { text-decoration: underline; }
   .topbar, .read-toc, .pager, .searchbox { display: none !important; }
   .read-article { border: none; padding: 0; }
   .read-layout { display: block; }
+  .markdown-body figure.fig { break-inside: avoid; page-break-inside: avoid; }
+  .markdown-body figure.fig img { max-height: none; }
 }
 
 /* ---------- 中英对照 ---------- */
@@ -262,6 +264,35 @@ body.zh-only .en-orig { display: none; }
 /* 数学公式 */
 .math-display { text-align: center; margin: 14px 0; overflow-x: auto; }
 .math-inline code, .math-inline { white-space: normal; }
+
+/* ---------- 原图 ---------- */
+/* 图片横跨正文整栏（不放进 .pair 的单栏里），图注与出处紧跟其下 */
+.markdown-body figure.fig {
+  margin: 22px 0 26px; padding: 14px 14px 10px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+}
+.markdown-body figure.fig a.fig-link {
+  display: block; border-radius: 8px; overflow: hidden;
+  background: var(--gray-bg); line-height: 0;
+}
+.markdown-body figure.fig img {
+  display: block; margin: 0 auto; width: auto;
+  max-width: 100%; max-height: 74vh; height: auto;
+}
+.markdown-body figure.fig figcaption {
+  margin-top: 11px; padding-top: 9px; border-top: 1px dashed var(--line);
+  font-size: 13px; line-height: 1.7; color: var(--ink-soft);
+}
+.markdown-body figure.fig .fig-label {
+  color: var(--cardinal); font-weight: 700; margin-right: 5px;
+}
+.markdown-body p.caption {
+  font-size: 13.5px; color: var(--ink-soft);
+  margin: 10px 0 20px; padding-left: 11px; border-left: 3px solid var(--line);
+}
+.markdown-body p.fig-note {
+  font-size: 13.5px; color: var(--ink-soft); margin: -4px 0 18px;
+}
 
 /* ---------- 中英对照:宽屏左右分栏 ---------- */
 @media (min-width: 1240px) {
